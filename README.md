@@ -1,4 +1,4 @@
-#BIOS 554- Assignment 1
+# BIOS 554- Assignment 1
 
 
 For this assignment, you will be programming in the Bash scripting language and using Unix terminal commands. If you use Mac OS or Linux on your computer, you can access the terminal directly. Otherwise, create an account on pythonanywhere.com and open a BASH terminal, load a linux operating system image on Docker (e.g. Ubuntu), or install the Bash terminal for Windows on your computer. You should submit the .sh files generated as part of this assignment using Github. You should also submit a .csv file that you used to test problem 5 (i.e. make up a data file) and all of the .json files generated as part of problem 6. The Github repository for this assignment is here:
